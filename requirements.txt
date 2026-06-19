@@ -7,3 +7,4 @@ streamlit
 wikipedia
 duckduckgo-search
 arxiv
+unstructured
