@@ -8,7 +8,7 @@ This project demonstrates the implementation of an intelligent search assistant 
 
 ## Features
 
-- Search the web using search engine
+- Search the web using search engines
 - Retrieve information from Wikipedia
 - Access research papers through Arxiv
 - AI agent based reasoning and tool selection
