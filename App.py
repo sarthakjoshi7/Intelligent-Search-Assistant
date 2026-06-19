@@ -16,8 +16,6 @@ st.title("🔎 LangChain - Chat With Search")
 """
 In this project, we're using `StreamlitCallbackHandler` to display the thoughts and actions of an agent in an interactive Streamlit app.
 """
-# Sidebar For Settings
-st.sidebar.title("Settings")
 api_key=st.secrets["GROQ_API_KEY"]
 if "messages" not in st.session_state:
     st.session_state["messages"]=[
