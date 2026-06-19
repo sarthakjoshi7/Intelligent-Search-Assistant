@@ -14,7 +14,7 @@ wiki=WikipediaQueryRun(api_wrapper=api_wrapper)
 search=DuckDuckGoSearchRun(name="Search")
 st.title("🔎 LangChain - Chat With Search")
 """
-In this project, we're using `StreamlitCallbackHandler` to display the thoughts and actions of an agent in an interactive Streamlit app.
+In this project, we're using `StreamlitCallbackHandler` to display the thoughts and actions of an agent in an interactive Streamlit apps.
 """
 # Sidebar For Settings
 st.sidebar.title("Settings")
