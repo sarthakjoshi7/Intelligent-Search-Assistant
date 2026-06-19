@@ -4,6 +4,6 @@ langchain-community==0.2.10
 langchain-groq
 python-dotenv
 streamlit
-wikipedia
+wikipedia==1.4.0
 duckduckgo-search
-arxiv
+arxiv==2.1.3
