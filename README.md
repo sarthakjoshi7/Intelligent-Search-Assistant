@@ -1,6 +1,6 @@
 # Intelligent Search Assistant
 
-An AI-powered search application built using LangChain, Open Source LLM, agents and tools.
+An AI powered search application built using LangChain, Open Source LLM, agents and tools.
 
 ## Project Goal
 
